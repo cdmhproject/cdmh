@@ -1,0 +1,1 @@
+This folder contains Adeptia ETL Objects.
